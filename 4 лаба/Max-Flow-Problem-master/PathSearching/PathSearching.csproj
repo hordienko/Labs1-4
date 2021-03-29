@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="Current">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <FileUpgradeFlags>40</FileUpgradeFlags>
+    <UpgradeBackupLocation>D:\навчання\4 курс\8 семестр\Дискретні моделі САПР(Каркульовський, Кривий)\Аня\Аня\4 лаба\Max-Flow-Problem-master\Backup\PathSearching\</UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+</Project>

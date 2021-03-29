@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gjt5/QDoRLyA7xBgnK2xHFLA31QcWHMOjRSUMQHDavfKyP+GFpa1Wdrb/VxIZicv1s8UlqCl4lGVnB3Z61mSkg==",
+  "success": true,
+  "projectFilePath": "D:\\навчання\\4 курс\\8 семестр\\Дискретні моделі САПР(Каркульовський, Кривий)\\Аня\\Аня\\4 лаба\\Max-Flow-Problem-master\\Algorithms\\Algorithms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Anya\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Anya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
